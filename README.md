@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning large language models and cloud security.
 - 📫 How to reach me: you can reach me through [LinkedIn](https://linkedin.com/in/nabiladem) or email adem.nabil00@gmail.com.
 - ⚡ Fun fact: I was born in Djibouti but Phoenix, AZ is my hometown 🏠
-- 💬 Tell me about any opportunities you might know about me. Let's chat!
+- 💬 Tell me about any opportunities you can connect me with. Let's chat!
