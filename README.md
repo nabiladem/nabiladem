@@ -4,7 +4,7 @@
 
 - 🧑🏾‍💻 I'm available for any full-time roles.
 - 🔭 I’m currently working on personal projects and freelancing with small businesses/individuals.
-- 🌱 I’m currently learning large language models and cloud security.
+- 🌱 I’m currently learning agentic AI and building agents.
 - 📫 How to reach me: you can reach me through [LinkedIn](https://linkedin.com/in/nabiladem) or email adem.nabil00@gmail.com.
 - 🕸️ Vist my [website!](https://nabiladem.com)
 - 💬 Tell me about any opportunities. Let's connect!
